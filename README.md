@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java, Python and R 
 - 💞️ I’m looking to collaborate on Projects Based on Data Science   
 - 📫 How to reach me ..
-MAIL:vangalabhanuprakash.6@gmail.com
-Phone: +91-8897534317
+- MAIL:vangalabhanuprakash.6@gmail.com
+- Phone: +91-8897534317
 
 <!---
 bhanuprakash6/bhanuprakash6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
