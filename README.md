@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Python and R 
 - 💞️ I’m looking to collaborate on Projects Based on Data Science   
 - 📫 How to reach me ..
-- MAIL:vangalabhanuprakash.6@gmail.com
+- MAIL : vangalabhanuprakash.6@gmail.com
 - Phone: +91-8897534317
 
 <!---
