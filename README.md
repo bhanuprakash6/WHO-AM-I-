@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bhanuprakash6
-- 👀 I’m interested in Programming and Data Analysis  
-- 🌱 I’m currently learning a few skills.
-- 💞️ I’m looking to collaborate on Projects Based on Data Science   
-- 📫 How to reach me.
+- 👀 I’m interested in Coding and Developing New Skills. 
+- 🌱 I’m in the process of being a pro-programmer :(
+- 💞️ Thank you in Advance for Reading about me.  
+- 📫 How to reach me?
 - MAIL: vangalabhanuprakash.6@gmail.com
-- Phone: +91-8897534317
+  
 
 <!---
 bhanuprakash6/bhanuprakash6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
