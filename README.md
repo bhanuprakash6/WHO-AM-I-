@@ -3,7 +3,7 @@
 - 🌱 I’m in the process of being a pro-programmer :(
 - 💞️ Thank you in Advance for Reading about me.  
 - 📫 How to reach me?
-- MAIL: vangalabhanuprakash.6@gmail.com
+- MAIL: vangalabhanuprakash.12@gmail.com
   
 
 <!---
