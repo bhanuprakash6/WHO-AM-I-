@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhanuprakash6
 - 👀 I’m interested in Coding and Developing New Skills. 
-- 🌱 I’m in the process of being a pro-programmer :(
 - 💞️ Thank you in Advance for Reading about me.  
 - 📫 How to reach me?
 - MAIL: vangalabhanuprakash.12@gmail.com
